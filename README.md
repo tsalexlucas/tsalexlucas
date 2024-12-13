@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Web Developer.
+I'm a FullStack Web Developer.
 
 #
 
@@ -8,8 +8,8 @@ I'm a Web Developer.
 {
     "name": "Alex Lucas",
     "live_in": "Paraíba, Brazil",
-    "technologies": ["TypeScript"],
+    "technologies": ["TypeScript", "NodeJS", "Git"],
     "skills": ["User Experience", "Responsive Web Design"],
-    "hobbies": ["Programming", "Arcade Games"]
+    "hobbies": ["Programming", "KOF 2002"]
 }
 ```
