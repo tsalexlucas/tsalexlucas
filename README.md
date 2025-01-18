@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a FullStack Web Developer.
+I'm a Web Engineer
 
 #
 
